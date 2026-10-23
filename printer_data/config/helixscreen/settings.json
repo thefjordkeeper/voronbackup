@@ -207,13 +207,12 @@
           "leds": [],
           "sensors": [
             "temperature_sensor EBB36",
-            "temperature_sensor cartographer_coil",
+            "temperature_sensor beacon_coil",
             "tmc5160 stepper_x",
             "tmc5160 stepper_y",
-            "temperature_sensor cartographer",
             "temperature_sensor Pi"
           ],
-          "timestamp": "2026-10-13T14:18:16Z"
+          "timestamp": "2026-10-23T17:34:29Z"
         },
         "optional": []
       },
