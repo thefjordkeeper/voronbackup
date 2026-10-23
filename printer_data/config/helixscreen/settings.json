@@ -10,7 +10,9 @@
     "gcode_render_mode": 0,
     "gpu_3d_blocked": false,
     "gpu_blur_blocked": false,
-    "sleep_sec": 1200
+    "screensaver_type": 2,
+    "sleep_sec": 1200,
+    "timezone": "America/Chicago"
   },
   "gcode_viewer": {
     "shading_model": "phong",
@@ -357,11 +359,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": -1,
+                  "col": 6,
                   "colspan": 1,
-                  "enabled": false,
+                  "enabled": true,
                   "id": "tool_switcher",
-                  "row": -1,
+                  "row": 2,
                   "rowspan": 1
                 },
                 {
@@ -597,6 +599,9 @@
       "z_movement_style": 2
     },
     "show_printer_switcher": false
+  },
+  "safety": {
+    "allow_cold_extrude": true
   },
   "telemetry_enabled": false,
   "theme": {
