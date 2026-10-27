@@ -37,7 +37,7 @@
   "language": "en",
   "log_path": "/tmp/helixscreen.log",
   "motion": {
-    "jog_mode": 2
+    "jog_mode": 0
   },
   "print_start_history": {
     "entries": [
@@ -162,11 +162,11 @@
           "catalog_id": "",
           "color_rgb": 7698555,
           "material": "PLA",
-          "nozzle_temp_max": 0,
-          "nozzle_temp_min": 0,
+          "nozzle_temp_max": 210,
+          "nozzle_temp_min": 210,
           "product_name": "",
           "remaining_weight_g": 752.7500610351563,
-          "spool_name": "ANYCUBIC PLA - Basic Texture Grey",
+          "spool_name": "Basic Texture Grey",
           "spoolman_id": 27,
           "total_weight_g": 1000.0
         }
@@ -212,7 +212,7 @@
             "tmc5160 stepper_y",
             "temperature_sensor Pi"
           ],
-          "timestamp": "2026-10-27T14:27:49Z"
+          "timestamp": "2026-10-27T16:21:15Z"
         },
         "optional": []
       },
