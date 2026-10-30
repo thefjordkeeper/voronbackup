@@ -43,6 +43,51 @@
     "entries": [
       {
         "phases": {
+          "7": 150
+        },
+        "temp_bucket": 1,
+        "timestamp": 1793287327,
+        "total": 713,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 194
+        },
+        "temp_bucket": 1,
+        "timestamp": 1793294845,
+        "total": 748,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 175
+        },
+        "temp_bucket": 1,
+        "timestamp": 1793323690,
+        "total": 743,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 166
+        },
+        "temp_bucket": 1,
+        "timestamp": 1793329560,
+        "total": 724,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 195
+        },
+        "temp_bucket": 1,
+        "timestamp": 1793360087,
+        "total": 759,
+        "window": 1
+      },
+      {
+        "phases": {
           "7": 231
         },
         "temp_bucket": 2,
@@ -121,57 +166,11 @@
       },
       {
         "phases": {
-          "5": 180,
-          "7": 115
+          "7": 197
         },
-        "temp_bucket": 1,
-        "timestamp": 1793219172,
-        "total": 531,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 150
-        },
-        "temp_bucket": 1,
-        "timestamp": 1793287327,
-        "total": 713,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 194
-        },
-        "temp_bucket": 1,
-        "timestamp": 1793294845,
-        "total": 748,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 175
-        },
-        "temp_bucket": 1,
-        "timestamp": 1793323690,
-        "total": 743,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 166
-        },
-        "temp_bucket": 1,
-        "timestamp": 1793329560,
-        "total": 724,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 195
-        },
-        "temp_bucket": 1,
-        "timestamp": 1793360087,
-        "total": 759,
+        "temp_bucket": 2,
+        "timestamp": 1793369502,
+        "total": 468,
         "window": 1
       }
     ]
@@ -252,7 +251,7 @@
             "tmc5160 stepper_y",
             "temperature_sensor Pi"
           ],
-          "timestamp": "2026-10-30T13:56:11Z"
+          "timestamp": "2026-10-30T14:03:16Z"
         },
         "optional": []
       },
@@ -649,10 +648,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.7719601988792419
+        "heat_rate": 0.8505035638809204
       },
       "heater_bed": {
-        "heat_rate": 4.0580220222473145
+        "heat_rate": 8.86850643157959
       }
     }
   },
