@@ -88,14 +88,6 @@
       },
       {
         "phases": {
-          "7": 231
-        },
-        "temp_bucket": 2,
-        "timestamp": 1783884525,
-        "total": 415
-      },
-      {
-        "phases": {
           "7": 244
         },
         "temp_bucket": 2,
@@ -171,6 +163,15 @@
         "temp_bucket": 2,
         "timestamp": 1793369502,
         "total": 468,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 223
+        },
+        "temp_bucket": 2,
+        "timestamp": 1793375007,
+        "total": 414,
         "window": 1
       }
     ]
@@ -251,7 +252,7 @@
             "tmc5160 stepper_y",
             "temperature_sensor Pi"
           ],
-          "timestamp": "2026-10-30T14:03:16Z"
+          "timestamp": "2026-10-30T15:21:42Z"
         },
         "optional": []
       },
@@ -648,10 +649,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.8505035638809204
+        "heat_rate": 0.8651115894317627
       },
       "heater_bed": {
-        "heat_rate": 8.86850643157959
+        "heat_rate": 7.048803806304932
       }
     }
   },
