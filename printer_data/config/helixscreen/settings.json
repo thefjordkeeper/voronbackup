@@ -233,7 +233,6 @@
           "fans": [
             "fan",
             "heater_fan hotend",
-            "fan_generic nevermore_fan",
             "fan_generic BedFans",
             "controller_fan Chassis_Fan"
           ],
@@ -245,14 +244,12 @@
           "leds": [],
           "sensors": [
             "temperature_sensor EBB36",
-            "temperature_sensor nevermore_intake_VOC",
-            "temperature_sensor nevermore_exhaust_VOC",
             "temperature_sensor beacon_coil",
             "tmc5160 stepper_x",
             "tmc5160 stepper_y",
             "temperature_sensor Pi"
           ],
-          "timestamp": "2026-10-30T16:48:37Z"
+          "timestamp": "2026-10-30T19:22:25Z"
         },
         "optional": []
       },
