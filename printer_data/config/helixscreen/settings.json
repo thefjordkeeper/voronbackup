@@ -207,23 +207,7 @@
         "hotend": "heater_fan hotend",
         "part": "fan"
       },
-      "filament": {
-        "external_spool": {
-          "assigned": true,
-          "bed_temp": 60,
-          "brand": "ANYCUBIC",
-          "catalog_id": "",
-          "color_rgb": 7698555,
-          "material": "PLA",
-          "nozzle_temp_max": 210,
-          "nozzle_temp_min": 210,
-          "product_name": "",
-          "remaining_weight_g": 738.249755859375,
-          "spool_name": "Basic Texture Grey",
-          "spoolman_id": 27,
-          "total_weight_g": 1000.0
-        }
-      },
+      "filament": {},
       "filament_sensors": {
         "master_enabled": true,
         "sensors": [
@@ -249,6 +233,7 @@
           "fans": [
             "fan",
             "heater_fan hotend",
+            "fan_generic nevermore_fan",
             "fan_generic BedFans",
             "controller_fan Chassis_Fan"
           ],
@@ -260,12 +245,14 @@
           "leds": [],
           "sensors": [
             "temperature_sensor EBB36",
+            "temperature_sensor nevermore_intake_VOC",
+            "temperature_sensor nevermore_exhaust_VOC",
             "temperature_sensor beacon_coil",
             "tmc5160 stepper_x",
             "tmc5160 stepper_y",
             "temperature_sensor Pi"
           ],
-          "timestamp": "2026-10-30T13:02:05Z"
+          "timestamp": "2026-10-30T13:56:11Z"
         },
         "optional": []
       },
