@@ -43,14 +43,6 @@
     "entries": [
       {
         "phases": {
-          "7": 239
-        },
-        "temp_bucket": 2,
-        "timestamp": 1783822051,
-        "total": 566
-      },
-      {
-        "phases": {
           "7": 231
         },
         "temp_bucket": 2,
@@ -154,6 +146,33 @@
         "timestamp": 1793294845,
         "total": 748,
         "window": 1
+      },
+      {
+        "phases": {
+          "7": 175
+        },
+        "temp_bucket": 1,
+        "timestamp": 1793323690,
+        "total": 743,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 166
+        },
+        "temp_bucket": 1,
+        "timestamp": 1793329560,
+        "total": 724,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 195
+        },
+        "temp_bucket": 1,
+        "timestamp": 1793360087,
+        "total": 759,
+        "window": 1
       }
     ]
   },
@@ -199,7 +218,7 @@
           "nozzle_temp_max": 210,
           "nozzle_temp_min": 210,
           "product_name": "",
-          "remaining_weight_g": 748.9155883789063,
+          "remaining_weight_g": 738.249755859375,
           "spool_name": "Basic Texture Grey",
           "spoolman_id": 27,
           "total_weight_g": 1000.0
@@ -246,7 +265,7 @@
             "tmc5160 stepper_y",
             "temperature_sensor Pi"
           ],
-          "timestamp": "2026-10-29T21:09:39Z"
+          "timestamp": "2026-10-30T13:02:05Z"
         },
         "optional": []
       },
@@ -643,10 +662,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.8898652791976929
+        "heat_rate": 0.7719601988792419
       },
       "heater_bed": {
-        "heat_rate": 5.502626419067383
+        "heat_rate": 4.0580220222473145
       }
     }
   },
