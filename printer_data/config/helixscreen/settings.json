@@ -43,15 +43,6 @@
     "entries": [
       {
         "phases": {
-          "7": 150
-        },
-        "temp_bucket": 1,
-        "timestamp": 1793287327,
-        "total": 713,
-        "window": 1
-      },
-      {
-        "phases": {
           "7": 194
         },
         "temp_bucket": 1,
@@ -88,19 +79,12 @@
       },
       {
         "phases": {
-          "7": 244
+          "7": 259
         },
-        "temp_bucket": 2,
-        "timestamp": 1783968818,
-        "total": 479
-      },
-      {
-        "phases": {
-          "7": 213
-        },
-        "temp_bucket": 2,
-        "timestamp": 1783972176,
-        "total": 641
+        "temp_bucket": 1,
+        "timestamp": 1793411862,
+        "total": 792,
+        "window": 1
       },
       {
         "phases": {
@@ -172,6 +156,24 @@
         "temp_bucket": 2,
         "timestamp": 1793375007,
         "total": 414,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 220
+        },
+        "temp_bucket": 2,
+        "timestamp": 1793396425,
+        "total": 452,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 222
+        },
+        "temp_bucket": 2,
+        "timestamp": 1793412927,
+        "total": 486,
         "window": 1
       }
     ]
@@ -249,7 +251,7 @@
             "tmc5160 stepper_y",
             "temperature_sensor Pi"
           ],
-          "timestamp": "2026-10-30T19:22:25Z"
+          "timestamp": "2026-10-31T02:01:17Z"
         },
         "optional": []
       },
@@ -646,10 +648,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.8651115894317627
+        "heat_rate": 0.9575455784797668
       },
       "heater_bed": {
-        "heat_rate": 7.048803806304932
+        "heat_rate": 5.951216220855713
       }
     }
   },
