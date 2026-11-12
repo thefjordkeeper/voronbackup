@@ -88,33 +88,6 @@
       },
       {
         "phases": {
-          "7": 223
-        },
-        "temp_bucket": 2,
-        "timestamp": 1793375007,
-        "total": 414,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 220
-        },
-        "temp_bucket": 2,
-        "timestamp": 1793396425,
-        "total": 452,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 222
-        },
-        "temp_bucket": 2,
-        "timestamp": 1793412927,
-        "total": 486,
-        "window": 1
-      },
-      {
-        "phases": {
           "7": 185
         },
         "temp_bucket": 2,
@@ -175,6 +148,33 @@
         "timestamp": 1794411814,
         "total": 460,
         "window": 1
+      },
+      {
+        "phases": {
+          "7": 286
+        },
+        "temp_bucket": 2,
+        "timestamp": 1794431299,
+        "total": 539,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 282
+        },
+        "temp_bucket": 2,
+        "timestamp": 1794444417,
+        "total": 495,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 274
+        },
+        "temp_bucket": 2,
+        "timestamp": 1794450531,
+        "total": 521,
+        "window": 1
       }
     ]
   },
@@ -220,7 +220,7 @@
           "nozzle_temp_max": 255,
           "nozzle_temp_min": 255,
           "product_name": "",
-          "remaining_weight_g": 886.6112670898438,
+          "remaining_weight_g": 844.3530883789063,
           "spool_name": "Polymaker Polylite ABS Red",
           "spoolman_id": 53,
           "total_weight_g": 1000.0
@@ -267,7 +267,7 @@
             "tmc5160 stepper_y",
             "temperature_sensor Pi"
           ],
-          "timestamp": "2026-11-11T14:46:57Z"
+          "timestamp": "2026-11-12T14:46:20Z"
         },
         "optional": []
       },
@@ -664,7 +664,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 1.0626565217971802
+        "heat_rate": 1.1060234308242798
       },
       "heater_bed": {
         "heat_rate": 5.400414943695068
