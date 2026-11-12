@@ -220,7 +220,7 @@
           "nozzle_temp_max": 255,
           "nozzle_temp_min": 255,
           "product_name": "",
-          "remaining_weight_g": 843.38330078125,
+          "remaining_weight_g": 841.968994140625,
           "spool_name": "Polymaker Polylite ABS Red",
           "spoolman_id": 53,
           "total_weight_g": 1000.0
@@ -267,7 +267,7 @@
             "tmc5160 stepper_y",
             "temperature_sensor Pi"
           ],
-          "timestamp": "2026-11-12T15:42:49Z"
+          "timestamp": "2026-11-12T16:36:30Z"
         },
         "optional": []
       },
