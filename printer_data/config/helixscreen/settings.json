@@ -220,7 +220,7 @@
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
           "product_name": "",
-          "remaining_weight_g": 948.1873779296875,
+          "remaining_weight_g": 948.1046752929688,
           "spool_name": "PolyLite™ Grey",
           "spoolman_id": 54,
           "total_weight_g": 1000.0
@@ -267,7 +267,7 @@
             "tmc5160 stepper_y",
             "temperature_sensor Pi"
           ],
-          "timestamp": "2026-11-23T17:14:01Z"
+          "timestamp": "2026-11-23T19:24:58Z"
         },
         "optional": []
       },
