@@ -88,24 +88,6 @@
       },
       {
         "phases": {
-          "7": 195
-        },
-        "temp_bucket": 2,
-        "timestamp": 1794711526,
-        "total": 464,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 229
-        },
-        "temp_bucket": 2,
-        "timestamp": 1795101414,
-        "total": 448,
-        "window": 1
-      },
-      {
-        "phases": {
           "7": 254
         },
         "temp_bucket": 2,
@@ -175,6 +157,24 @@
         "timestamp": 1795451610,
         "total": 337,
         "window": 1
+      },
+      {
+        "phases": {
+          "7": 183
+        },
+        "temp_bucket": 2,
+        "timestamp": 1795459385,
+        "total": 425,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 201
+        },
+        "temp_bucket": 2,
+        "timestamp": 1795460210,
+        "total": 460,
+        "window": 1
       }
     ]
   },
@@ -220,7 +220,7 @@
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
           "product_name": "",
-          "remaining_weight_g": 949.4153442382813,
+          "remaining_weight_g": 948.1873779296875,
           "spool_name": "PolyLite™ Grey",
           "spoolman_id": 54,
           "total_weight_g": 1000.0
@@ -267,7 +267,7 @@
             "tmc5160 stepper_y",
             "temperature_sensor Pi"
           ],
-          "timestamp": "2026-11-23T16:35:10Z"
+          "timestamp": "2026-11-23T17:14:01Z"
         },
         "optional": []
       },
@@ -664,7 +664,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 1.0455975532531738
+        "heat_rate": 1.1783818006515503
       },
       "heater_bed": {
         "heat_rate": 5.9064717292785645
